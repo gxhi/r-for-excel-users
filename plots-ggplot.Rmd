@@ -1,0 +1,7 @@
+---
+title: "Creating graphs in R with `ggplot2`"
+author: "Guillaume Xhignesse"
+date: "05/08/2021"
+output: html_document
+---
+
